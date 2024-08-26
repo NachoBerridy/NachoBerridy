@@ -14,22 +14,7 @@ Actualmente estudio ingeniería y programación 💻. Gracias a mi carrera en in
  
 🚀 Me encuentro en la búsqueda de oportunidades dentro del desarrollo web y mobile, tanto del lado del 
  front como del back.
- 
-___
- 
-## Tecnologías
 
-![Tecnologias](https://user-images.githubusercontent.com/63414974/203409140-f8608312-923d-4875-9aec-43409b171b65.svg)
-
-___
-
-## Estadísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoBerridy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NachoBerridy&layout=compact&theme=tokyonight)
-
-___
 
 ## Contacto
 
