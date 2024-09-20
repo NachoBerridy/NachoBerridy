@@ -1,10 +1,5 @@
 ![image](https://github.com/user-attachments/assets/bcdfa7b8-3684-4d25-a231-4b0dd816b5c9)
 
-
-Aquí tienes una versión en inglés con los detalles adicionales que me mencionaste:
-
----
-
 # 👋 Hello! I'm Nacho
 
 I’m a passionate software developer with a strong foundation in **Frontend**, **Backend**, and **Data Science**. I'm currently in the final years of my **Computer Engineering** degree. With a diverse background in both web development and data analysis, I have gained experience working with cutting-edge technologies.
