@@ -4,6 +4,10 @@
 
 I’m a passionate software developer with a strong foundation in **Frontend**, **Backend**, and **Data Science**. I'm currently in the final years of my **Computer Engineering** degree. With a diverse background in both web development and data analysis, I have gained experience working with cutting-edge technologies.
 
+## Tech Stack
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ## 💻 What I Do
 
 ### 🎨 Frontend
@@ -53,5 +57,6 @@ From a young age, I've been fascinated by how the world works. I initially pursu
 - I love animals, especially **cats** 🐱!
 
 I’m always open to new opportunities and collaborations. Let’s connect!
+
 
 
